@@ -142,7 +142,7 @@ pip install pandas xgboost shap matplotlib seaborn scikit-learn pyarrow
 ### 4. On Databricks
 Upload the CSV to DBFS and update the `FILE_PATH` variable in notebook 01:
 ```python
-FILE_PATH = "dbfs:/FileStore/tables/BasicCompanyData-2026-04-01-part1_7.csv"
+FILE_PATH = "'/Workspace/Users/srishti.alfa@gmail.com/BasicCompanyData-2026-04-01-part6_7.csv"
 ```
 
 ---

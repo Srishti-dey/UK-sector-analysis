@@ -150,7 +150,7 @@ FILE_PATH = "'/Workspace/Users/srishti.alfa@gmail.com/BasicCompanyData-2026-04-0
 ## 📈 Charts
 
 ### Sector Failure Rates
-![Sector dissolution rates](charts/dissolution_by_sector.png)
+![Sector dissolution rates](Failure Rates)
 
 ### Risk Band Validation
 ![Risk band validation](charts/risk_band_validation.png)
